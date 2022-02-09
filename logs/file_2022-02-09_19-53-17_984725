@@ -1,0 +1,78 @@
+2022-02-09 19:53:17.985 | INFO     | __main__:<module>:15 - Start program
+2022-02-09 19:53:17.986 | INFO     | __main__:<module>:18 - File loaded
+2022-02-09 19:53:18.021 | INFO     | __main__:<module>:23 - Start parse and check
+2022-02-09 19:53:19.701 | INFO     | __main__:<module>:30 - URL ['http://chicagosteelhockeyteam.com/news_article/show/898682'] checked
+2022-02-09 19:53:20.097 | INFO     | __main__:<module>:30 - URL ['http://newspr.es/2GbzLE0'] checked
+2022-02-09 19:53:20.922 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2FN9tIE'] checked
+2022-02-09 19:53:21.762 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2u7p2Fj'] checked
+2022-02-09 19:53:22.556 | INFO     | __main__:<module>:30 - URL ['http://ow.ly/Y1pT30j3k6R'] checked
+2022-02-09 19:53:24.270 | INFO     | __main__:<module>:30 - URL ['http://ti.me/2FPQUnp'] checked
+2022-02-09 19:53:26.405 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2DFExUN'] checked
+2022-02-09 19:53:26.936 | INFO     | __main__:<module>:30 - URL ['http://on.forbes.com/6011DVYx9'] checked
+2022-02-09 19:53:27.460 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2aWvpTB'] checked
+2022-02-09 19:53:27.988 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2aVdCWB'] checked
+2022-02-09 19:53:28.259 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2HKM5Ir'] checked
+2022-02-09 19:53:28.268 | ERROR    | check_url:availability:40 - Error check: .Realtor.com Invalid URL '.Realtor.com': No scheme supplied. Perhaps you meant http://.Realtor.com?
+2022-02-09 19:53:28.268 | INFO     | __main__:<module>:30 - URL ['.Realtor.com'] checked
+2022-02-09 19:53:29.064 | INFO     | __main__:<module>:30 - URL ['http://mayocl.in/2IBJAcF'] checked
+2022-02-09 19:53:29.723 | INFO     | __main__:<module>:30 - URL ['http://entm.ag/qck'] checked
+2022-02-09 19:53:31.394 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2FOSqGe'] checked
+2022-02-09 19:53:32.674 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2psfdNN'] checked
+2022-02-09 19:53:33.820 | INFO     | __main__:<module>:30 - URL ['http://www.floridarealtors.org/NewsAndEvents/article.cfm?id=363796'] checked
+2022-02-09 19:53:36.997 | INFO     | __main__:<module>:30 - URL ['https://veteransemployment.gov.au/finalist_announcement'] checked
+2022-02-09 19:53:37.757 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2kpyAqW'] checked
+2022-02-09 19:53:38.394 | INFO     | __main__:<module>:30 - URL ['https://wp.me/p14QSB-azon'] checked
+2022-02-09 19:53:39.650 | INFO     | __main__:<module>:30 - URL ['http://dlvr.it/QLnrQg'] checked
+2022-02-09 19:53:39.924 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2GKTNmp'] checked
+2022-02-09 19:53:41.230 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2u5q1Gv'] checked
+2022-02-09 19:53:41.896 | INFO     | __main__:<module>:30 - URL ['http://aaronshara.com/nocost/'] checked
+2022-02-09 19:53:43.183 | INFO     | __main__:<module>:30 - URL ['http://ti.me/2FNliOZ'] checked
+2022-02-09 19:53:44.597 | INFO     | __main__:<module>:30 - URL ['http://for.tn/2IAqOTb'] checked
+2022-02-09 19:53:45.026 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2proUMw'] checked
+2022-02-09 19:53:55.040 | ERROR    | check_url:availability:40 - Error check: http://s.ctx.ly/r/1113r HTTPConnectionPool(host='s.ctx.ly', port=80): Max retries exceeded with url: /r/1113r (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000271240CBD30>, 'Connection to s.ctx.ly timed out. (connect timeout=10)'))
+2022-02-09 19:53:55.041 | INFO     | __main__:<module>:30 - URL ['http://s.ctx.ly/r/1113r'] checked
+2022-02-09 19:53:58.965 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2psTwMZ'] checked
+2022-02-09 19:53:59.391 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2pu4cvq'] checked
+2022-02-09 19:54:00.659 | INFO     | __main__:<module>:30 - URL ['http://etsy.me/2rMKyxl'] checked
+2022-02-09 19:54:01.186 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2biH8tD'] checked
+2022-02-09 19:54:01.712 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2bcHq25'] checked
+2022-02-09 19:54:03.241 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2txBmz0'] checked
+2022-02-09 19:54:03.620 | INFO     | __main__:<module>:30 - URL ['https://www.instagram.com/p/BgkKZbMlT9I/'] checked
+2022-02-09 19:54:04.644 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2GbenPg'] checked
+2022-02-09 19:54:05.907 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2DGLzsw'] checked
+2022-02-09 19:54:06.215 | INFO     | __main__:<module>:30 - URL ['http://www.abc-7.com'] checked
+2022-02-09 19:54:06.471 | INFO     | __main__:<module>:30 - URL ['http://www.richmond.com/news/closings/richmond-area-school-closings-and-delays-for-wednesday-s-inclement/article_d198959e-dc2d-11e7-abd3-6bf8da0f568c.html'] checked
+2022-02-09 19:54:07.478 | INFO     | __main__:<module>:30 - URL ['http://on.forbes.com/6019DVYvP'] checked
+2022-02-09 19:54:10.415 | INFO     | __main__:<module>:30 - URL ['https://goo.gl/YMn4Zu'] checked
+2022-02-09 19:54:11.776 | INFO     | __main__:<module>:30 - URL ['http://ow.ly/2Lv050gW16U'] checked
+2022-02-09 19:54:13.081 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2uargo2'] checked
+2022-02-09 19:54:17.498 | INFO     | __main__:<module>:30 - URL ['http://ow.ly/qTP050gW0F9'] checked
+2022-02-09 19:54:17.803 | INFO     | __main__:<module>:30 - URL ['https://twitter.com/marcwest757/status/976215734215987200'] checked
+2022-02-09 19:54:21.662 | INFO     | __main__:<module>:30 - URL ['https://pilotonline.com/sports/baseball/norfolk-tides/article_3f943377-01f2-5d9b-a6dc-0ee44a883c2f.html'] checked
+2022-02-09 19:54:21.933 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2FMHQiU'] checked
+2022-02-09 19:54:23.105 | INFO     | __main__:<module>:30 - URL ['http://etsy.me/2qJ85vR'] checked
+2022-02-09 19:54:23.623 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2biHgtk'] checked
+2022-02-09 19:54:24.166 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2nek2KU'] checked
+2022-02-09 19:54:25.442 | INFO     | __main__:<module>:30 - URL ['http://ti.me/2FW0Uap'] checked
+2022-02-09 19:54:25.817 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2GRNVbr'] checked
+2022-02-09 19:54:26.426 | INFO     | __main__:<module>:30 - URL ['https://wp.me/p14QSB-azoi'] checked
+2022-02-09 19:54:27.828 | INFO     | __main__:<module>:30 - URL ['https://blogs.mcafee.jp/blueborne-vulnerability-prevention'] checked
+2022-02-09 19:54:28.004 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2IBIwFG'] checked
+2022-02-09 19:54:29.279 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2FONGR5'] checked
+2022-02-09 19:54:31.266 | INFO     | __main__:<module>:30 - URL ['https://mcafee.ly/2GLIHh2'] checked
+2022-02-09 19:54:32.596 | INFO     | __main__:<module>:30 - URL ['http://ti.me/2FWwLYE'] checked
+2022-02-09 19:54:32.942 | INFO     | __main__:<module>:30 - URL ['https://www.instagram.com/p/BgkH12xHdqU/'] checked
+2022-02-09 19:54:33.470 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2FSna9q'] checked
+2022-02-09 19:54:33.898 | INFO     | __main__:<module>:30 - URL ['http://nplsne.ws/2u5hXpg'] checked
+2022-02-09 19:54:34.424 | INFO     | __main__:<module>:30 - URL ['http://ow.ly/nDOI30j3DJv'] checked
+2022-02-09 19:54:34.671 | INFO     | __main__:<module>:30 - URL ['http://www.richmond.com/weather/update-winter-weather-advisory-issued-for-richmond-area-starting-at/article_0590ace4-cb51-5b82-b773-f8de89119c12.html'] checked
+2022-02-09 19:54:35.818 | INFO     | __main__:<module>:30 - URL ['http://ti.me/2IEFJLR'] checked
+2022-02-09 19:54:36.509 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2HQCIai'] checked
+2022-02-09 19:54:37.837 | INFO     | __main__:<module>:30 - URL ['http://for.tn/2FY9m9c'] checked
+2022-02-09 19:54:38.108 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2GKf3ZJ'] checked
+2022-02-09 19:54:38.415 | ERROR    | check_url:availability:40 - Error check: http://bit.ly/2HSjxNf HTTPConnectionPool(host='realtormag.realtor.org', port=80): Max retries exceeded with url: /sales-and-marketing/feature/article/2018/03/if-sedan-dies-what-will-pros-drive (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000271240CB340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-02-09 19:54:38.416 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2HSjxNf'] checked
+2022-02-09 19:54:38.897 | INFO     | __main__:<module>:30 - URL ['http://ow.ly/rl1g30j43k7'] checked
+2022-02-09 19:54:39.912 | INFO     | __main__:<module>:30 - URL ['https://www.facebook.com/WINKNewsTV/videos/10156205378739161/'] checked
+2022-02-09 19:54:41.766 | INFO     | __main__:<module>:30 - URL ['http://bit.ly/2G6QWX7'] checked
+2022-02-09 19:54:41.886 | INFO     | __main__:<module>:37 - Finish program

@@ -1,5 +1,7 @@
 import requests
 
+from loguru import logger
+
 
 class CheckURL:
     """
@@ -35,6 +37,7 @@ class CheckURL:
             self.urls_count += 1
             return response
         except requests.exceptions.RequestException as ex:
+            logger.error(f"Error check: {url} {ex}")
             self.urls_error_check[url] = ex
 
     def unshort(self, response, url):
